@@ -1,0 +1,13 @@
+.vscode
+
+# Distribution / Packaging
+lib/
+
+# Environments
+.env
+
+# Python virtual environment
+bin/**
+lib64/
+pyvenv.cfg
+lib64
