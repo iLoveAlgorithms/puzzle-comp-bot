@@ -1,13 +1,20 @@
+# IDE environment
 .vscode
 
 # Distribution / Packaging
 lib/
 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
 # Environments
 .env
 
-# Python virtual environment
+# Python Virtual environment
 bin/**
 lib64/
 pyvenv.cfg
 lib64
+include
