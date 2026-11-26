@@ -1,3 +1,11 @@
+# IDE environment
+.vscode
+
+# Python Virtual environment
+bin/
+pyvenv.cfg
+include
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -15,6 +23,7 @@ downloads/
 eggs/
 .eggs/
 lib/
+lib64
 lib64/
 parts/
 sdist/
